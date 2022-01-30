@@ -1,0 +1,1 @@
+{"check":{"id":"8sdp131a0tr99ka21bgk","userPhone":"0558988936","protocol":"https","url":"zohar-banai.dev","method":"get","successCodes":[200,201],"timeoutSeconds":5,"state":"down","lastChecked":1642690051718},"outcome":{"error":{"error":true,"value":"timeout"},"responseCode":false},"state":"down","alert":false,"time":1642690098604}
